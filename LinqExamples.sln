@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. LeftOuterJoin", "09. Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. LambdaExamples", "10. LambdaExamples\10. LambdaExamples.csproj", "{8D7C5CAD-DF10-4F32-9EF3-2C6F51A3E7CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Grouping", "11. Grouping\11. Grouping.csproj", "{4A2FEB7E-C1D9-463A-9A3F-6F15C6983538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. JoiningWithLambda", "12. JoiningWithLambda\12. JoiningWithLambda.csproj", "{1F5EB6E2-5E3A-4B58-BC09-96F055E778A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{8D7C5CAD-DF10-4F32-9EF3-2C6F51A3E7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D7C5CAD-DF10-4F32-9EF3-2C6F51A3E7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D7C5CAD-DF10-4F32-9EF3-2C6F51A3E7CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2FEB7E-C1D9-463A-9A3F-6F15C6983538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2FEB7E-C1D9-463A-9A3F-6F15C6983538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2FEB7E-C1D9-463A-9A3F-6F15C6983538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2FEB7E-C1D9-463A-9A3F-6F15C6983538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5EB6E2-5E3A-4B58-BC09-96F055E778A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5EB6E2-5E3A-4B58-BC09-96F055E778A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5EB6E2-5E3A-4B58-BC09-96F055E778A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5EB6E2-5E3A-4B58-BC09-96F055E778A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Grouping", "11. Groupin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. JoiningWithLambda", "12. JoiningWithLambda\12. JoiningWithLambda.csproj", "{1F5EB6E2-5E3A-4B58-BC09-96F055E778A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Converting", "13. Converting\13. Converting.csproj", "{C02E5023-F1C9-4BBB-A15F-6AF5A6238CFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.Filtering", "14. ConvertingAndFiltering\14.Filtering.csproj", "{710C5C36-5B06-4592-9EFA-3EE81F4D563D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{1F5EB6E2-5E3A-4B58-BC09-96F055E778A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F5EB6E2-5E3A-4B58-BC09-96F055E778A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F5EB6E2-5E3A-4B58-BC09-96F055E778A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C02E5023-F1C9-4BBB-A15F-6AF5A6238CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02E5023-F1C9-4BBB-A15F-6AF5A6238CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02E5023-F1C9-4BBB-A15F-6AF5A6238CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02E5023-F1C9-4BBB-A15F-6AF5A6238CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{710C5C36-5B06-4592-9EFA-3EE81F4D563D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710C5C36-5B06-4592-9EFA-3EE81F4D563D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710C5C36-5B06-4592-9EFA-3EE81F4D563D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{710C5C36-5B06-4592-9EFA-3EE81F4D563D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
